@@ -14,7 +14,7 @@ This guide walks you through creating a Laravel backend and a Next.js frontend, 
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/softjapn/laravel-nextjs-dev-environment.git
+git clone https://github.com/softjapan/laravel-nextjs-dev-environment.git
 ```
 
 ---
